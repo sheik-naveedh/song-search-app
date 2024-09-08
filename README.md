@@ -1,5 +1,3 @@
-Here is the entire README text for you to copy and paste:
-
 
 # 🎵 Song Search App 🎵
 
